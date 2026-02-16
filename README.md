@@ -15,6 +15,7 @@ The dashboard integrates:
 The goal is to provide data-driven insights to support strategic decision-making and policy planning.
 
 **🎯 Problem Statement**
+
 Telangana generates significant revenue and industrial growth across districts. However, data is distributed across departments and years, making it difficult to:
 
 * Track year-wise growth trends
@@ -34,7 +35,7 @@ This project builds an integrated analytical dashboard to centralize and visuali
 * Compare revenue, investment, and employment performance
 * Enable interactive filtering and drill-down analysis
 
-🛠** Tools & Technologies Used**
+🛠**Tools & Technologies Used**
 
 * Power BI Desktop – Dashboard development
 * Power Query – Data cleaning & transformation (ETL)
